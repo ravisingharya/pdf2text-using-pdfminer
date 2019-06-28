@@ -1,0 +1,1909 @@
+Workfile ID:
+
+50882c7b
+
+ADVANCEDAPPRAISALSERVICE -
+
+MARLBORO,MA
+2MOUNTROYALAVE
+
+MARLBOROUGH,MA01752
+
+Phone:(508)485-2212,FAX:(508)485-8691
+
+For:
+
+COMMERCE INSURANCE
+MAPFRE| InsuranceClaims QuestionsCall
+
+Phone:(800)221-1605
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+
+Job Number:19-13227
+
+Insured:
+TypeofLoss:
+Pointof Impact:06Rear
+
+PEREZ,EDGAR
+AC-unknown
+
+Owner:
+PEREZ,EDGAR
+55ANNA STREET
+WORCESTER,MA01604
+(774)242-8388Business
+
+Written By:FranciscoEnriquez,15860
+
+Adjuster:EWINGS,CHRISTOPHER,(800)221-1605Business
+
+Policy#:
+DateofLoss:
+
+GZJ538
+1/30/20191:00PM
+
+Claim#:
+DaystoRepair:
+
+A0PY2PC-PAYXX9
+0
+
+InspectionLocation:
+290AUTO BODY/CUSTOMS
+1 STOWELLAVE
+WORCESTER,MA01606
+RepairFacility
+
+VEHICLE
+
+RepairFacility:
+290AUTO BODY/CUSTOMS
+1 STOWELLAVE
+WORCESTER,MA01606
+(508)340-4977Fax
+
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+VIN:
+License:
+State:
+
+1GYS4UKJ2FR708811
+9HM429
+MA
+
+Production Date:
+Odometer:
+Condition:
+
+56,121
+
+InteriorColor:
+ExteriorColor:
+
+WHITE
+
+TRANSMISSION
+Automatic Transmission
+Overdrive
+4Wheel Drive
+POWER
+Power Steering
+PowerBrakes
+PowerWindows
+PowerLocks
+PowerMirrors
+HeatedMirrors
+Power Driver Seat
+PowerPassenger Seat
+MemoryPackage
+PowerAdjustablePedals
+
+AirConditioning
+IntermittentWipers
+TiltWheel
+CruiseControl
+Rear Defogger
+KeylessEntry
+Alarm
+MessageCenter
+SteeringWheel TouchControls
+RearWindowWiper
+TelescopicWheel
+ClimateControl
+DualAirCondition
+Navigation System
+BackupCameraw/ParkingSensors
+
+Stereo
+Search/Seek
+AuxiliaryAudioConnection
+PremiumRadio
+SatelliteRadio
+SAFETY
+Drivers SideAirBag
+PassengerAirBag
+Anti-LockBrakes(4)
+4Wheel DiscBrakes
+TractionControl
+StabilityControl
+Front Side ImpactAirBags
+Head/CurtainAirBags
+Rear Side ImpactAirBags
+
+ROOF
+Luggage/RoofRack
+ElectricGlass Sunroof
+SEATS
+Bucket Seats
+Leather Seats
+HeatedSeats
+Rear HeatedSeats
+VentilatedSeats
+Power ThirdSeat
+WHEELS
+20" OrLargerWheels
+PAINT
+Three StagePaint
+OTHER
+
+2/25/20196:03:11PM
+
+052031
+
+Page 1
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+DECOR
+DualMirrors
+Body SideMoldings
+PrivacyGlass
+Console/Storage
+Wood Interior Trim
+CONVENIENCE
+
+Dual ScreenEntertainment
+Remote Starter
+IntelligentCruise
+Home Link
+RADIO
+AMRadio
+FMRadio
+
+Communications System
+HandsFree Device
+Xenon Headlamps
+Positraction
+BlindSpot Detection
+HeadsUpDisplay
+Lane DepartureWarning
+
+Signal IntegratedMirrors
+TRUCK
+Trailer Hitch
+Trailering Package
+RunningBoards/Side Steps
+Power Trunk/GateRelease
+
+2/25/20196:03:11PM
+
+052031
+
+Page 2
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+Line
+
+Oper
+
+Description
+
+PartNumber
+
+Qty
+
+Extended
+Price $
+
+Labor
+
+Paint
+
+1
+
+2
+3
+4
+
+5
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+
+27
+
+28
+29
+30
+31
+32
+33
+34
+
+35
+
+#
+
+#
+FRONTSUSPENSION
+
+"REPAIRER,READESTIMATE
+NOTES"
+Note:BEFOREstartingrepairsororderingparts,pleasecompletea2hourhiddendamageaccessteardownto
+CONFIRMREPAIRABLESTATUS.Ifadditionaldamageisdiscovered,CONTACTTHEAPPRAISERIMMEDIATELY"
+==================
+
+1
+
+1
+
+ReplWheel alignment alignfront
+
+wheels
+
+ReplWheel alignmentcheckrear
+
+alignment
+
+ROOF
+
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+
+R&IR&Iheadliner
+
+O/Hluggagerack
+
+R&IRTSiderailEscaladeESV
+
+Deductfor Overlap
+R&ILTSiderailEscaladeESV
+Deductfor Overlap
+
+R&IRearheadlinershale
+
+Deductfor Overlap
+Deductfor Overlap
+
+PILLARS,ROCKER&FLOOR
+
+S01
+S01
+
+R&IRTRunning board
+R&ILTRunning board
+
+QUARTER PANEL
+
+*
+
+*
+*
+*
+
+*
+
+*
+
+BlndRTQuarter panel
+RprLTQuarter panel
+
+Addfor Three Stage
+
+S01
+S01
+
+R&IFuel door
+RefnFuel door
+
+S01
+
+Addfor Three Stage
+
+R&IRTWheelhouselinerEscalade
+
+ESV
+
+R&ILTWheelhouselinerEscalade
+
+ESV
+
+R&IRTQtroutletvent
+R&ILTQtroutletvent
+ReplRT Frontmolding
+ReplLT Frontmolding
+R&IRTRearmolding
+R&ILTRearmolding
+RprRTQtr glassw/o privacytint -
+
+MASK
+
+RprLTQtr glassw/o privacytint -
+
+MASK
+
+1
+
+1
+
+23227753
+23227752
+
+1
+1
+
+95.75
+86.47
+
+m
+
+m
+
+s
+s
+
+1.5
+
+0.5
+
+3.5
+4.0
+Incl.
+-0.1
+Incl.
+-0.1
+1.7
+-0.7
+-0.7
+
+1.0
+1.0
+
+3.0
+
+0.3
+
+0.3
+
+0.3
+
+0.2
+0.2
+0.1
+0.1
+0.4
+0.4
+0.4
+
+0.4
+
+2.2
+3.1
+2.2
+
+0.3
+0.1
+
+2/25/20196:03:11PM
+
+052031
+
+Page 3
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+36
+
+37
+
+38
+39
+40
+41
+
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+
+62
+63
+
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+
+S01
+
+R&ILower qtrtrimw/o powerfold
+
+seat dune
+
+S01
+
+R&ILower qtrtrimw/o powerseat
+
+dune
+
+REAR BODY
+S01
+*
+S01
+S01
+
+*
+
+*
+
+*
+LIFTGATE
+*
+
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+
+S01
+S01
+
+S01
+S01
+
+S01
+
+#
+
+*
+
+#
+
+S01
+REARLAMPS
+
+REAR BUMPER
+
+RprRearheader
+
+Addfor Three Stage
+
+R&IScuff platew/o SuburbanLSor
+
+YukonXL SLT black
+
+RprRTLower panel
+
+Addfor Three Stage
+
+RprLTLower panel
+
+Addfor Three Stage
+
+BlndRTSidepanel
+BlndLTSidepanel
+ReplCase
+
+RprLift gate
+
+OverlapMajorAdj.Panel
+Addfor Three Stage
+AddforEdging
+Addfor Three Stage
+
+ReplHandle
+
+OverlapMinorPanel
+Addfor Three Stage
+
+ReplApplique2nd design
+ReplNameplate"ESCALADE"
+R&IRearcamera
+RprLift gateglassGMw/privacytint -
+
+MASK
+
+R&IUppertrim black
+R&ILowertrim panelw/o powerlift
+
+gateblack
+
+R&ILicensebracket
+R&ISpoilerEscaladeESV
+
+R&IRTCombolamp assy2nd design
+ReplLTCombolamp assy2nd design
+R&IRTLicenselamp
+R&ILTLicenselamp
+
+O/Hrear bumper
+
+ReplBumpercover
+
+Addfor Three Stage
+Addforradarsensor
+
+R&IRTSidebracket
+
+2/25/20196:03:11PM
+
+052031
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+0.6
+
+0.6
+
+3.0
+
+0.3
+
+1.0
+
+1.0
+
+6.0
+
+15922078
+
+1
+
+41.38
+
+134.69
+
+0.4
+
+23339223
+
+23234931
+
+1
+
+1
+1
+
+161.12
+30.08
+
+84211920
+
+1
+
+1,272.05
+
+23326084
+
+1
+
+776.59
+
+1.0
+0.4
+
+0.3
+0.1
+0.3
+0.1
+0.4
+0.4
+
+2.3
+-0.4
+0.8
+1.4
+0.6
+0.7
+-0.2
+0.2
+
+3.2
+2.2
+
+Page 4
+
+0.2
+0.2
+0.5
+
+Incl.
+0.6
+
+0.2
+0.5
+
+0.3
+0.3
+0.2
+0.2
+
+3.2
+Incl.
+
+0.4
+0.1
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+22806431
+23224609
+22960925
+84515908
+
+84240626
+22960927
+84410295
+
+23316326
+23428268
+22806381
+
+1
+1
+1
+1
+
+1
+1
+1
+
+1
+4
+1
+
+1
+1
+
+1
+1
+1
+
+1
+
+1
+1
+
+1
+
+1
+1
+
+1
+1
+1
+1
+
+1
+
+1
+
+1.0
+0.4
+0.2
+0.1
+
+0.0
+
+1.0
+
+21.85
+210.37
+50.56
+326.55
+
+55.71
+115.27
+127.17
+
+122.48
+830.00
+604.62
+
+m
+m
+
+5.00 X
+5.00 X
+15.00 T
+
+6.00 X
+
+10.00 X
+
+20.00
+
+15.00 T
+10.00
+12.00 T
+9.00
+
+498.00
+
+0.1
+Incl.
+Incl.
+Incl.
+Incl.
+Incl.
+Incl.
+Incl.
+
+0.3
+0.2
+Incl.
+Incl.
+0.3
+
+0.5
+0.5
+
+0.2
+0.2
+0.5
+
+0.5
+
+0.5
+0.6
+
+1.0
+
+3.0
+0.5
+0.2
+0.2
+
+0.5
+
+0.5
+
+2.0
+1.0 F
+0.5
+
+0.5
+
+Page 5
+
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+
+102
+103
+
+104
+
+105
+106
+107
+108
+109
+110
+111
+112
+
+113
+114
+
+115
+116
+117
+
+#
+#
+
+#
+
+#
+#
+#
+#
+#
+#
+#
+#
+
+#
+#
+
+#
+#
+#
+
+S01
+
+ReplLTSidebracket
+ReplLowermolding
+ReplBracket
+ReplDeflector
+R&IRTReflector
+ReplLTReflector
+ReplStep pad
+ReplAccesscover
+
+Addfor Three Stage
+
+RefnTow eyecap
+
+Addfor Three Stage
+
+R&IImpact barw/power park brake
+R&IConnectortowingreceptacle
+ReplHarness2nd design
+ReplParksensor
+ReplImpact barw/o power park brake
+
+S01
+S01
+
+ReplPre-repairscan
+ReplPost-repairscan
+
+*
+*
+VEHICLEDIAGNOSTICS
+*
+*
+MISCELLANEOUSOPERATIONS
+*
+ReplCovercar/bag
+#
+#
+#
+#
+
+COVERVEHICLEFORPRIMER
+ANTICORROSIVEPRIME
+RefnTINT TO MATCH-3 STAGE
+RESETELECTRICS/ D&R
+BATTERY
+WASH FORREPAIR INSPECTION
+MASKJAMBS-RECESSEDAREAS
+PRIMER
+MASKJAMBS-RECESSEDAREAS
+PAINT
+HARDWARE
+COLOR SANDAND BUFF
+
+S01
+
+RprCLEANCOMPOUNDRESIDUES
+ReplCORROSIONPROTECTION
+
+RUSTPROOF
+
+ReplFLEX
+
+ADHESIONPROMOTER
+RprREMOVE OLD STRIPES &
+
+ADHESIVES
+
+RprCOLLISIONACCESS
+
+S01
+
+S01
+S01
+S01
+
+ADDN'LPAINTAND MATERIALS
+REQ24.9 HRS@$20-3 STAGE
+SETUPAND MEASURE
+
+RprPULL/ALIGNMASH
+RprPINCHWELDSAFTERCLAMPING
+
+2/25/20196:03:11PM
+
+052031
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+118
+119
+120
+
+#
+#
+#
+
+S01
+S01
+S01
+
+ReplSEAM SEALER
+ReplUNDERCOAT
+
+CLEAN TO PRE-LOSSCONDITION
+
+1
+1
+1
+
+30.00 T
+8.00 T
+
+5,705.71
+
+0.5
+
+0.5
+52.3
+
+24.9
+
+SUBTOTALS
+
+NOTES
+
+MassachusettsGeneralLawsand540CMR19.00nowrequirethattheCertificateofInspectionbereplacesbyaTemporaryCertificateof
+
+Vehiclelocked:
+Other(explain):locked,orownernotpresenttogivepermission,orownerrefused.anyquestionspleasecallus
+mustarrangeforthereplacementofyourCertificateofInspectionwithaTemporaryCertificateofInspectionimmediately,oralternatively,have
+
+Yourvehiclehassustaineddamagesuchthatitmaynolonger
+
+TheappraiserwasunabletoreplacetheCertificateofInspectionwithaTemporary
+
+EstimateNotes:
+10075540CMR:REGISTRY OFMOTORVEHICLES
+Claimnumber:listed above
+Date:listed above
+Appraiser:listed above
+Importantnotice:
+1.
+meettheannualsafetyoremissionsinspectionstandards.Yourvehiclehassuchdamagetothefollowingitem(s)
+Damages:listedonappraisalabove,anyquestionspleasecallus
+2.
+Inspectionwheneveralicenseddamageappraiserdeterminesthat
+that avehicleisdamagedsuchthatitmaynolongermeetstheannualsafetyoremissionsinspectionstandards.
+3.
+Certificateof Inspection duetothefollowing:
+a.
+b.
+4.
+thevehiclerepairedsothatitmay passthesafety
+andemissionsstandardsandobtainanewCertificateofInspectionimmediatelyYou.
+Failuretodosomayresultinadelayinsettlingyourclaimwiththeinsurancecompany.Thefollowingare
+authorizedtoreplacetheCertificateofInspectionwithatemporaryCertificateofInspectionatnochargetoyou:
+a.
+b.
+5.
+Inspection
+mustberepairedbeforetheexpirationofthe20dayperiod.
+Operatingavehiclewithout avalidCertificateofInspectionwillsubjecttheoperatorfinesandinsurancesurcharges.
+6.
+Certificateof Inspectionwiththe Temporary
+Certificatetothe addressspecified below.
+I,Name
+CertificateofInspection,Serialnumber:
+With
+TemporaryCertificateofInspection  :
+7.
+Name:
+StreetAddress:
+City, StateZipCode:
+
+Serial# allinformationlistedin attached appraisal
+
+Returnthisformto:
+
+Lic #
+
+Department
+
+date
+
+replaced
+
+Enter Serial #
+
+AnylicensedAuto DamageAppraiser
+AnyRegistryofMotorVehicle Inspector
+TheTemporaryCertificateofInspectionisvalidforaperiodof20days.ThedamagewhichrequiredthereplacementoftheCertificateof
+
+Youmustreturnacopyofthisformsignedbyoneoftheauthorizedindividualsspecifiedin4aorbaboveattestingtothereplacementofthe
+
+2/25/20196:03:11PM
+
+052031
+
+Page 6
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+ESTIMATETOTALS
+Category
+Parts
+BodyLabor
+PaintLabor
+Frame Labor
+Paint Supplies
+Miscellaneous
+Subtotal
+Sales Tax
+TotalCostofRepairs
+NetCostofRepairs
+
+Basis
+
+Rate
+
+51.3hrs
+24.9hrs
+1.0hrs
+24.9hrs
+
+@
+@
+@
+@
+
+$40.00/hr
+$40.00/hr
+$43.00/hr
+$17.00/hr
+
+$6,103.01
+
+@
+
+6.2500 %
+
+Cost $
+5,599.71
+2,052.00
+996.00
+43.00
+423.30
+106.00
+9,220.01
+381.44
+9,601.45
+9,601.45
+
+MyPriceLinkEstimateID/QuoteID:
+524665753106915328/43095760
+
+2/25/20196:03:11PM
+
+052031
+
+Page 7
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+Line
+
+Oper
+
+Description
+
+PartNumber
+
+Qty
+
+Extended
+Price $
+
+Labor
+
+Paint
+
+SUPPLEMENTSUMMARY
+
+23428268
+23428268
+
+3
+4
+1
+
+1
+
+1
+
+1
+
+-622.50
+830.00
+
+-6.00 X
+
+10.00 X
+
+-350.00
+
+498.00
+
+-2.3
+2.3
+-1.6
+0.8
+0.0
+0.0
+
+-2.2
+
+0.2
+
+3.1
+2.2
+
+-5.0
+6.0
+
+Incl.
+Incl.
+-0.6
+
+1.0
+
+-0.1
+
+Incl.
+
+3.5
+4.0
+Incl.
+-0.1
+Incl.
+-0.1
+1.7
+-0.7
+-0.7
+
+1.0
+1.0
+3.0
+
+0.1
+0.6
+
+0.6
+
+s
+
+s
+
+S01
+
+S01
+
+S01
+
+S01
+
+S01
+
+RprLift gate
+RprLift gate
+
+Addfor Three Stage
+Addfor Three Stage
+
+ReplParksensor
+ReplParksensor
+
+MASKJAMBS-RECESSEDAREAS
+PAINT
+MASKJAMBS-RECESSEDAREAS
+PAINT
+ADDN'LPAINTAND MATERIALS
+REQ17.5 HRS@$20-3 STAGE
+ADDN'LPAINTAND MATERIALS
+REQ24.9 HRS@$20-3 STAGE
+
+BlndLTQuarter panel
+R&IRT Frontmolding
+
+OverlapMinorPanel
+
+R&IDeflector
+
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+
+R&IR&Iheadliner
+
+O/Hluggagerack
+
+R&IRTSiderailEscaladeESV
+
+Deductfor Overlap
+R&ILTSiderailEscaladeESV
+Deductfor Overlap
+
+R&IRearheadlinershale
+
+Deductfor Overlap
+Deductfor Overlap
+
+ChangedItems
+
+22
+50
+23
+52
+59
+91
+71
+
+104
+
+81
+
+114
+
+*
+*
+
+*
+*
+#
+
+#
+
+#
+
+#
+
+DeletedItems
+
+8
+16
+26
+49
+
+AddedItems
+
+ROOF
+
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+21
+22
+30
+36
+
+37
+
+38
+
+PILLARS,ROCKER&FLOOR
+
+*
+
+*
+
+S01
+S01
+S01
+S01
+S01
+S01
+
+R&IRTRunning board
+R&ILTRunning board
+RprLTQuarter panel
+
+Addfor Three Stage
+
+ReplRT Frontmolding
+R&ILower qtrtrimw/o powerfold
+
+seat dune
+
+S01
+
+R&ILower qtrtrimw/o powerseat
+
+dune
+
+REAR BODY
+
+23227753
+
+1
+
+95.75
+
+2/25/20196:03:11PM
+
+052031
+
+Page 8
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+39
+40
+41
+
+42
+43
+44
+45
+46
+47
+48
+51
+53
+54
+56
+65
+80
+92
+115
+116
+117
+118
+119
+120
+
+*
+
+*
+
+*
+
+*
+
+*
+#
+#
+#
+#
+#
+#
+
+S01
+S01
+S01
+
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+S01
+
+RprRearheader
+
+Addfor Three Stage
+
+R&IScuff platew/o SuburbanLSor
+
+YukonXL SLT black
+
+RprRTLower panel
+
+Addfor Three Stage
+
+RprLTLower panel
+
+Addfor Three Stage
+
+BlndRTSidepanel
+BlndLTSidepanel
+ReplCase
+
+OverlapMajorAdj.Panel
+AddforEdging
+Addfor Three Stage
+OverlapMinorPanel
+
+R&ISpoilerEscaladeESV
+ReplDeflector
+ReplImpact barw/o power park brake
+
+SETUPAND MEASURE
+
+RprPULL/ALIGNMASH
+RprPINCHWELDSAFTERCLAMPING
+ReplSEAM SEALER
+ReplUNDERCOAT
+
+CLEAN TO PRE-LOSSCONDITION
+
+15922078
+
+1
+
+41.38
+
+84515908
+22806381
+
+326.55
+604.62
+
+30.00 T
+8.00 T
+
+1
+1
+1
+
+1
+1
+1
+
+SUBTOTALS
+
+1,465.80
+
+3.0
+
+0.3
+
+1.0
+
+1.0
+
+0.5
+Incl.
+0.3
+2.0
+1.0 F
+0.5
+0.5
+
+0.5
+25.8
+
+1.0
+0.4
+
+0.3
+0.1
+0.3
+0.1
+0.4
+0.4
+
+-0.4
+1.4
+0.6
+-0.2
+
+0.5
+
+7.4
+
+CHANGESTOADJUSTMENTS
+
+2/25/20196:03:11PM
+
+052031
+
+Page 9
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+TOTALSSUMMARY
+Category
+Parts
+BodyLabor
+PaintLabor
+Frame Labor
+Paint Supplies
+Miscellaneous
+Subtotal
+Sales Tax
+TotalSupplementAmount
+NETCOSTOFSUPPLEMENT
+
+Basis
+
+Rate
+
+24.8hrs
+7.4hrs
+1.0hrs
+7.4hrs
+
+@
+@
+@
+@
+
+$40.00/hr
+$40.00/hr
+$43.00/hr
+$17.00/hr
+
+$1,587.60
+
+@
+
+6.2500 %
+
+Cost $
+1,423.80
+992.00
+296.00
+43.00
+125.80
+42.00
+2,922.60
+99.23
+3,021.83
+3,021.83
+
+MyPriceLinkEstimateID/QuoteID:
+524665753106915328/43095760
+
+CUMULATIVEEFFECTS OFSUPPLEMENT(S)
+
+Estimate
+
+Supplement S01
+
+6,579.62
+
+3,021.83
+
+Francisco
+Enriquez
+Francisco
+Enriquez
+
+WorkfileTotal:
+NETCOSTOFREPAIRS:
+
+$
+$
+
+9,601.45
+9,601.45
+
+"Thisdocumentisneitheranauthorizationtorepairnoraguaranteeofpayment.Deductables,bettermentsand
+previousdamage,ifincludedinthisdocument,willbedeductedfromanysettlementwiththevehicleowner.
+Supplementswill bedeniedwithout priorapprovalfromtheappraiser.Allsupplementaldamagefound bythe
+repairermustbeinspectedanddocumentedbyarepresentitiveoftheinsurancecompanybeforethoserepairsbegin.
+All partpriceincreasesaresubjecttoinvoiceverification.Thevehicleownermustauthorizeall repairs."
+accordancewith ADALBRegulations,thisappraisal waspreparedandsworntounderthepenaltiesofperjury.
+APPRAISER:_____________________________LICENSE:________________
+
+In
+
+PERMASSACHUSETTSREG.TITLE212CHAPTER2.02(5),"THISESTIMATEHASBEEN PREPAREDANDSWORNTO
+UNDERTHE PENALTIESOF PERJURY."
+
+2/25/20196:03:11PM
+
+052031
+
+Page10
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+EstimatebasedonMOTORCRASHESTIMATINGGUIDEand potentiallyotherthird partysourcesof data.Unless
+otherwisenoted, (a)allitemsarederivedfromtheGuideDR1GA15,CCCDataDate02/14/2019,and potentiallyother
+thirdpartysourcesofdata;and(b)thepartspresentedareOEM-partsmanufacturedbythevehiclesOriginal
+EquipmentManufacturer.OEMpartsareavailableatOE/Vehicledealerships.OPTOEM (OptionalOEM)orALTOEM
+(AlternativeOEM)partsareOEM partsthatmay beprovidedbyorthroughalternatesourcesotherthantheOEM
+vehicledealerships.OPTOEMor ALTOEM partsmayreflectsomespecific,special,oruniquepricingordiscount.
+OPTOEMor ALTOEMpartsmayinclude"Blemished" parts provided byOEM'sthroughOEMvehicledealerships.
+Asterisk(*)orDoubleAsterisk (**)indicatesthatthepartsand/orlabordata providedbythirdpartysourcesofdata
+mayhavebeenmodifiedormayhavecomefromanalternatedatasource.Tildesign (~)itemsindicateMOTOR
+Not-IncludedLaboroperations.Thesymbol(<>)indicatesthe refinishoperationWILLNOTbeperformedas a
+separateprocedurefromtheotherpanelsintheestimate.Non-OriginalEquipmentManufactureraftermarketparts
+aredescribedasNonOEM,A/MorNAGS.Used partsaredescribedasLKQ,RCY,orUSED.Reconditionedpartsare
+describedasRecond.RecoredpartsaredescribedasRecore.NAGSPartNumbersandBenchmarkPricesare
+providedbyNationalAutoGlassSpecifications.Laboroperationtimeslistedontheline withtheNAGSinformation
+areMOTORsuggestedlaboroperationtimes.NAGSlaboroperationtimesarenotincluded.Poundsign(#)items
+indicatemanual entries.
+
+Some2019vehiclescontainminorchangesfromthepreviousyear.Forthosevehicles,priorto receivingupdated
+datafromthevehiclemanufacturer,laborand partsdatafromthepreviousyearmaybeused.TheCCCONE
+estimatorhasalistofapplicablevehicles. Partsnumbersand pricesshould beconfirmed withthelocaldealership.
+
+Thefollowingisalistofadditionalabbreviationsorsymbolsthatmay beusedto describeworktobedoneorpartsto
+be repairedor replaced:
+
+SYMBOLSFOLLOWING PART PRICE:
+m=MOTORMechanicalcomponent.s=MOTORStructuralcomponent.T=MiscellaneousTaxedchargecategory.
+X=MiscellaneousNon-Taxedchargecategory.
+
+SYMBOLSFOLLOWINGLABOR:
+D=Diagnosticlaborcategory.E=Electricallaborcategory.F=Framelaborcategory.G=Glasslaborcategory.
+M=Mechanicallaborcategory.S=Structurallaborcategory.(numbers)1through4=UserDefinedLaborCategories.
+
+OTHERSYMBOLS AND ABBREVIATIONS:
+Adj.=Adjacent.  Algn.=Align.  ALU=Aluminum.  A/M=Aftermarketpart.Blnd=Blend.BOR=Boronsteel.
+CAPA=CertifiedAutomotivePartsAssociation.D&R=DisconnectandReconnect.HSS=HighStrengthSteel.
+HYD=HydroformedSteel.Incl.=Included.LKQ=LikeKindandQuality.LT=Left.MAG=Magnesium.Non-Adj.=Non
+Adjacent.NSF=NSFInternationalCertifiedPart.O/H=Overhaul.Qty=Quantity.Refn=Refinish.Repl=Replace.
+R&I=RemoveandInstall.R&R=RemoveandReplace.Rpr=Repair.RT=Right.SAS=SandwichedSteel.
+Sect=Section.Subl=Sublet.UHS=UltraHighStrengthSteel.N=Note(s)associatedwiththeestimateline.
+
+CCCONEEstimating - A productofCCCInformationServicesInc.
+
+Thefollowingisalistofabbreviationsthatmay be usedinCCCONEEstimatingthatarenot partoftheMOTOR
+CRASHESTIMATINGGUIDE:
+BAR=BureauofAutomotiveRepair.EPA=Environmental ProtectionAgency.NHTSA=NationalHighway
+TransportationandSafetyAdministration.PDR=PaintlessDentRepair.VIN=VehicleIdentificationNumber.
+
+2/25/20196:03:11PM
+
+052031
+
+Page11
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+SupplementofRecord1 withSummary
+
+Owner:PEREZ,EDGAR
+2015CADIEscaladeESVPlatinum4WD4DUTV8-6.2LFlexFuelDirectGasolineInjectionWHITE
+
+Job Number:19-13227
+
+***FOR APPRAISALQUESTIONSORSUPPLEMENTS, PLEASECALLTHE APPRAISER ASSIGNEDTOTHECLAIM***
+
+***ANYGLASSPART PRICES,GLASSKITS AND/ORGLASSLABOR,IFINCLUDEDINTHISDOCUMENT,MAYBE
+BASEDONCOMPETITIVEMARKET PRICING***
+
+***THISDOCUMENTISNEITHER AN AUTHORIZATIONTOREPAIRNOR A GUARANTEEOF PAYMENT.
+DEDUCTIBLES,BETTERMENTS, AND PREVIOUSDAMAGE,IFINCLUDEDINTHISDOCUMENT,WILLBEDEDUCTED
+FROM ANYSETTLEMENTWITHTHEVEHICLEOWNER.SUPPLEMENTSWILLBEDENIEDWITHOUT PRIOR APPROVAL
+FROMTHE APPRAISER. ALLSUPPLEMENTALDAMAGEFOUNDBYTHEREPAIRERMUSTBEINSPECTED AND
+DOCUMENTEDBY A REPRESENTATIVEOFTHEINSURANCECOMPANYBEFORETHOSEREPAIRSCANBEGIN. ALL
+PART PRICES ARESUBJECTTOINVOICEVERIFICATION.THEVEHICLEOWNERMUST AUTHORIZE ALLREPAIRS.***
+
+2/25/20196:03:11PM
+
+052031
+
+Page12
+
+PDFcreatedwithpdfFactoryPro trialversion
+
+www.pdffactory.com
+
+PDF created with pdfFactory Pro trial version www.pdffactory.com
+
+
